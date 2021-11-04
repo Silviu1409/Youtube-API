@@ -7,8 +7,8 @@ For an idea of how the game looks like, go to images folder and check the images
 
 Packages used and links to their documentations:
 
-YoutubeExplodeDart : https://pub.dev/packages/youtube_explode_dart
-YouTube API : https://pub.dev/packages/youtube_api
+YoutubeExplodeDart : https://pub.dev/packages/youtube_explode_dart\n
+YouTube API : https://pub.dev/packages/youtube_api\n
 Device Apps plugin for Flutter : https://pub.dev/packages/device_apps
 url_launcher : https://pub.dev/packages/url_launcher
 permission_handler : https://pub.dev/packages/permission_handler
