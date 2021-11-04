@@ -1,4 +1,4 @@
-# Youtube-API-in-Dart
+# Youtube API
 ## Youtube API made by using Dart and Flutter in a cross-platform app.
 ## Used for downloading media and search request.
 ### For an idea of how the game looks like, go to images folder and check the images.
